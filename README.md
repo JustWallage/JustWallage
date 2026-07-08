@@ -16,7 +16,7 @@ Shipping *fast* only counts if you ship with complete *trust* in the code.
 - **[JustWallage/news](https://github.com/JustWallage/news)** — live & public AI-curated Hacker News feed ([news.justwallage.nl](https://news.justwallage.nl)) + integrated Telegram updates
 - **[justly-skilled](https://github.com/JustWallage/justly-skilled)** — dual review loop workflow for Claude Code
 - **[iglympics](https://github.com/JustWallage/iglympics)** — real-time competition dashboard for a 14-friend weekend trip. Shipped new features live during the weekend from my phone, possible because of the guardrails
-- **[just-wallage-portfolio](https://github.com/JustWallage/just-wallage-portfolio-v1)** — live on: ([just.wallage.nl](https://just.wallage.nl)). Monorepo with my public profile and an API showcase, built in four ways — Node/Hono, Bun, and Go on AWS Lambda, and Cloudflare Worker
+- **[just-wallage-portfolio](https://github.com/JustWallage/just-wallage-portfolio-v1)** — live on: [just.wallage.nl](https://just.wallage.nl). Monorepo with my public profile and an API showcase, built in four ways — Node/Hono, Bun, and Go on AWS Lambda, and Cloudflare Worker
 - **[jaw-finance](https://github.com/JustWallage/jaw-finance)** — personal AI bank transaction insights: _What did I spend on food last month?_. Not public due for compliancy reasons.
 
 ## More about me
