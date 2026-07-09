@@ -1,6 +1,6 @@
 # Just Wallage
 
-**Full-stack product engineer · Guardrails & validation workflows to leverage AI-driven development**
+**Full-stack product engineer building feedback-loop-driven workflows to ship at AI velocity**
 
 I build full-stack systems that work for AI-driven development; the hard part isn't generating code, it's trusting it. That's why I focus on building strict **feedback loops** around the model:
 
